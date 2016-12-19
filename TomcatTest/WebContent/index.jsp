@@ -9,6 +9,6 @@
 <body>
 <% java.util.Date d =new java.util.Date();%>
 
-<h1>Today's date is<%= d.toString()%></h1>
+<h1>Today's date is <%= d.toString()%></h1>
 </body>
 </html>
